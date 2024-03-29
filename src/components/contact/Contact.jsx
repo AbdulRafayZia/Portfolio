@@ -13,8 +13,8 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_mjhr8cv','template_qz42qfq',form.current,'C6mv7XE5OA13P6gL0');
-
+    emailjs.sendForm('service_oo21ira','template_w916piw',form.current,'C6mv7XE5OA13P6gL0');
+    
     e.target.reset();
   }
 
@@ -28,22 +28,15 @@ const Contact = () => {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
-            <h5>ahsanbhatti624@gmail.com</h5>
-            <a href='mailto:ahsanbhatti624@gmail.com' target='_blank'>Send a message </a>
-          </article>
-
-          <article className='contact__option'>
-            <RiMessengerLine className='contact__option-icon' />
-            <h4>Messenger</h4>
-            <h5>Ahsan Bhatti</h5>
-            <a href='https://m.me/ahsan.bhatti.10236' target='_blank'>Send a message </a>
+            <h5>rafayzia3690@gmail.com</h5>
+            <a href='mailto:rafayzia3690@gmail.com' target='_blank'>Send a message </a>
           </article>
 
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
-            <h5>+923128301970</h5>
-            <a href='https://api.whatsapp.com/send?phone=923128301970' target='_blank'>Send a message </a>
+            <h5>+923445643748</h5>
+            <a href='https://api.whatsapp.com/send?phone=923445643748' target='_blank'>Send a message </a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

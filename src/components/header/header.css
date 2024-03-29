@@ -42,18 +42,24 @@ header {
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
+    width: 23rem;
     height: 35rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 2rem 1.5rem 1.5rem 1.5rem;
+    padding-top: 32px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+   
+    
 }
-.me >img{
+.header-image{
+    
     height: 100%;
     width: 100%;
+    
     
     
 }
@@ -86,5 +92,19 @@ header {
     .header__socials, .scroll__down {
         display: none;
     }
+    .me{
+
+     width: 15rem;
+     height: 15rem; 
+     position: absolute;
+     left: calc(50% - 8rem);
+     margin-top: 4rem;
+     border-radius: 7rem 7rem 0 0;
+     overflow: hidden; 
+     padding-top: 1px;
+     padding-left: 12px;
+     padding-bottom: 12px;
+    }
+  
 
 }

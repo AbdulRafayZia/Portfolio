@@ -19,9 +19,9 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG1} alt='' />
           </div>
-          <h3>Mailavail</h3>
+          <h3>Chat App</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
+            <a href='https://github.com/AbdulRafayZia/Chat_app' className='btn' target='_blank'>Github</a>
             <a href='https://www.mailavail.io/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
@@ -30,10 +30,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG2} alt='' />
           </div>
-          <h3>Parify Packaging Customiser</h3>
+          <h3>Stripe Clone</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://parifypackaging.co.uk/Customiser/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://stripe-react-pro.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -41,10 +41,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG3} alt='' />
           </div>
-          <h3>Body Doctor</h3>
+          <h3>Movies App</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://bodydoctorgym.co.uk/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com/AbdulRafayZia/Tv-maze' className='btn' target='_blank'>Github</a>
+            <a href='https://movies-details-kohl.vercel.app/?page=1' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -63,10 +63,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG5} alt='' />
           </div>
-          <h3>Mailavail Help Website</h3>
+          <h3>Color Generator</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://help.mailavail.io/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://color-generator-react-pro.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -74,10 +74,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG6} alt='' />
           </div>
-          <h3>This is a portfolio title</h3>
+          <h3>Bookme Trader</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://check-a-trade.vercel.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         
