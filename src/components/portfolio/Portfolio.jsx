@@ -6,6 +6,11 @@ import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
+import IMG7 from '../../assets/portfolio7.png'
+import IMG8 from '../../assets/portfolio8.png'
+import IMG9 from '../../assets/portfolio9.png'
+
+
 
 const Portfolio = () => {
   return (
@@ -58,7 +63,29 @@ const Portfolio = () => {
             <a href='https://www.capregsoft.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG7} alt='' />
+          </div>
+          <h3>Capregsoft Portal</h3>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn' target='_blank'>Github</a>
+            <a href='https://master.d27vsa7mcygi9s.amplifyapp.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
 
+       
+
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG6} alt='' />
+          </div>
+          <h3>Bookme Trader</h3>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn' target='_blank'>Github</a>
+            <a href='https://check-a-trade.vercel.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG5} alt='' />
@@ -69,15 +96,24 @@ const Portfolio = () => {
             <a href='https://color-generator-react-pro.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
-
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG6} alt='' />
+            <img src={IMG8} alt='' />
           </div>
-          <h3>Bookme Trader</h3>
+          <h3>Cart Items</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://check-a-trade.vercel.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://cart-item-react-pro.netlify.app/ ' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG9} alt='' />
+          </div>
+          <h3>Mailavail</h3>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn' target='_blank'>Github</a>
+            <a href='https://mailavail.io/' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         
