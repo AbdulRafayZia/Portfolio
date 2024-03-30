@@ -26,8 +26,8 @@ const Portfolio = () => {
           </div>
           <h3>Chat App</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com/AbdulRafayZia/Chat_app' className='btn' target='_blank'>Github</a>
-            <a href='https://www.mailavail.io/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com/AbdulRafayZia/Chat_app' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://www.mailavail.io/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -37,8 +37,8 @@ const Portfolio = () => {
           </div>
           <h3>Stripe Clone</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://stripe-react-pro.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://stripe-react-pro.netlify.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -48,8 +48,8 @@ const Portfolio = () => {
           </div>
           <h3>Movies App</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com/AbdulRafayZia/Tv-maze' className='btn' target='_blank'>Github</a>
-            <a href='https://movies-details-kohl.vercel.app/?page=1' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com/AbdulRafayZia/Tv-maze' className='btn' target='_blank'rel="noreferrer">Github</a>
+            <a href='https://movies-details-kohl.vercel.app/?page=1' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -59,8 +59,8 @@ const Portfolio = () => {
           </div>
           <h3>Capregsoft Portfolio Website</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://www.capregsoft.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://www.capregsoft.com/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -69,8 +69,8 @@ const Portfolio = () => {
           </div>
           <h3>Capregsoft Portal</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://master.d27vsa7mcygi9s.amplifyapp.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://master.d27vsa7mcygi9s.amplifyapp.com/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -82,8 +82,8 @@ const Portfolio = () => {
           </div>
           <h3>Bookme Trader</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://check-a-trade.vercel.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://check-a-trade.vercel.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -92,8 +92,8 @@ const Portfolio = () => {
           </div>
           <h3>Color Generator</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://color-generator-react-pro.netlify.app/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://color-generator-react-pro.netlify.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -102,8 +102,8 @@ const Portfolio = () => {
           </div>
           <h3>Cart Items</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://cart-item-react-pro.netlify.app/ ' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://cart-item-react-pro.netlify.app/ ' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -112,8 +112,8 @@ const Portfolio = () => {
           </div>
           <h3>Mailavail</h3>
           <div className="portfolio__item-cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://mailavail.io/' className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href='https://github.com' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://mailavail.io/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         
