@@ -7,9 +7,9 @@ import { FiInstagram } from 'react-icons/fi'
 function HeaderSocials() {
   return (
     <div className='header__socials'>
-      <a href='https://www.linkedin.com/in/ahsenyousaf' target='_blank'><BsLinkedin /></a>
-      <a href='https://github.com/AhsanYousaf' target='_blank'><FaGithub /></a>
-      <a href='https://www.instagram.com/ahsanbhatti1998/' target='_blank'><FiInstagram /></a>
+      <a href='https://www.linkedin.com/in/abdul-rafay-zia-697517247' target='_blank' rel="noreferrer"><BsLinkedin /></a>
+      <a href='https://github.com/AbdulRafayZia' target='_blank' rel="noreferrer"><FaGithub /></a>
+      <a href='https://www.instagram.com/abdul_rafay_zia/' target='_blank' rel="noreferrer"><FiInstagram /></a>
     </div>
   )
 }
