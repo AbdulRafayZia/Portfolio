@@ -12,7 +12,8 @@ const Header = () => {
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' , marginBottom: '100px' }}>
           <img
             src={ME}
-            alt=''
+            loading='lazy'
+            alt='Abdul Rafay Zia'
             // className='header-image'
             style={{
               width: '220px',
